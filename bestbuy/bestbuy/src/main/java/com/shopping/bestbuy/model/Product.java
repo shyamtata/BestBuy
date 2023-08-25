@@ -1,4 +1,4 @@
-package model;
+package com.shopping.bestbuy.model;
 
 public class Product {
     private Long id;

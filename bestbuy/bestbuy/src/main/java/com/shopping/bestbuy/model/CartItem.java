@@ -1,4 +1,4 @@
-package model;
+package com.shopping.bestbuy.model;
 
 import javax.persistence.*;
 
